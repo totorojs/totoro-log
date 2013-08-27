@@ -1,0 +1,40 @@
+{
+    "name": "totoro-log",
+    "version": "0.1.0",
+    "description": "Totoro logging library for node.js.",
+    "homepage": "https://github.com/totorojs/totoro-log",
+    "keywords": [
+        "totoro",
+        "log"
+    ],
+    "author": "fool2fish <fool2fish@gmail.com>",
+    "contributors": [
+        "kangpangpang <kangpangpang@gmail.com>"
+    ],
+    "engines": {
+        "node": ">= 0.8.17"
+    },
+    "dependencies": {
+    "    tinytim": ">=0.1.0",
+        "underscore": "1.4.4",
+        "tracer": "0.5.1",
+        "colors": ">=0.6.0",
+        "colorful": "2.1.0",
+        "dateformat": "*"
+    },
+    "devDependencies": {
+        "commander": "1.2.0",
+        "mocha": "1.12.0",
+        "expect.js": "0.2.0",
+        "sinon": "1.7.3",
+        "grunt": "0.4.1",
+        "grunt-contrib-jshint": "0.3.0",
+        "mocha": "*",
+        "expect.js": "*",
+        "sinon": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:totorojs/totoro-log.git"
+    }
+}

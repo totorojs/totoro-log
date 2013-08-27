@@ -1,4 +1,3 @@
-totoro-log
-==========
+# totoro-common
 
-日志模块
+Totoro logging library for node.js.
