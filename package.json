@@ -20,7 +20,9 @@
         "tracer": "0.5.1",
         "colors": ">=0.6.0",
         "colorful": "2.1.0",
-        "dateformat": "*"
+        "when": "2.0.1",
+        "dateformat": "*",
+        "mongoose": "3.6.15"
     },
     "devDependencies": {
         "commander": "1.2.0",
