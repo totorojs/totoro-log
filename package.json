@@ -1,8 +1,8 @@
 {
-    "name": "totoro-log",
+    "name": "totoro-logger",
     "version": "0.1.3",
     "description": "Totoro logging library for node.js.",
-    "homepage": "https://github.com/totorojs/totoro-log",
+    "homepage": "https://github.com/totorojs/totoro-logger",
     "keywords": [
         "totoro",
         "log"
@@ -35,6 +35,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:totorojs/totoro-log.git"
+        "url": "git@github.com:totorojs/totoro-logger.git"
     }
 }
