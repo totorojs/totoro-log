@@ -1,6 +1,6 @@
 {
     "name": "totoro-logger",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "Totoro logging library for node.js.",
     "homepage": "https://github.com/totorojs/totoro-logger",
     "keywords": [
